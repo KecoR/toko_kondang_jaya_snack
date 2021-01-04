@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "816496366227",
+    "project_id": "toko-kondang-jaya-snack",
+    "storage_bucket": "toko-kondang-jaya-snack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816496366227:android:caa0970c9c1b35a4ae7366",
+        "android_client_info": {
+          "package_name": "com.example.toko_kondang_jaya_snack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816496366227-bu64pjiksv333dfbivd73362omtkoblb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6p9HDUYD6M7MdGEaWLqXZJ4zhZb2XOmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816496366227-bu64pjiksv333dfbivd73362omtkoblb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
