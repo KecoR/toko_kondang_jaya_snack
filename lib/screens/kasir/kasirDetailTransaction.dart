@@ -123,6 +123,7 @@ class _KasirDetailTransactionState extends State<KasirDetailTransaction> {
     _notificationData['warehouseId'] = _data['warehouseId'];
     _notificationData['warehouseName'] = _dataWarehouse['name'];
     _notificationData['process'] = '0';
+    _notificationData['itemName'] = item;
 
     await FirebaseFirestore.instance
         .collection('notifications')
