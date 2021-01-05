@@ -26,7 +26,7 @@ class _KasirDetailTransactionState extends State<KasirDetailTransaction> {
     'madani',
     'basreng',
     'latansa',
-    'krupuk kulit',
+    'krupukkulit',
     'piarz',
   ];
 
